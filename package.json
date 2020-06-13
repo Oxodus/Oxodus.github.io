@@ -1,19 +1,19 @@
 {
-  "name": "litecoin.network",
-  "version": "1.0.0",
-  "description": "A project to analyse the Litecoin Network.",
+  "name": "Oxodus Network",
+  "version": "1.2",
+  "description": "A project to analyse the OXODUS Network.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/losh11/Litecoin.Network.git"
+    "url": "git+https://github.com/oxodus/Oxodus.Network.git"
   },
   "author": "losh11",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/losh11/Litecoin.Network/issues"
+    "url": "https://github.com/oxodus/Oxodus.Network/issues"
   },
-  "homepage": "https://github.com/losh11/Litecoin.Network#readme"
+  "homepage": "https://github.com/oxodus/Oxodus.Network#readme"
 }
