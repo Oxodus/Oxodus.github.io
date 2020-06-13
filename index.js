@@ -4,7 +4,7 @@ var options = {
   mode: 'text',
   pythonPath: '/usr/bin/python3',
   pythonOptions: ['-u'],
-  scriptPath: '/root/Litecoin.Network/python/',
+  scriptPath: '/root/Oxodus Network/python/',
   args: ['']
 };
 
