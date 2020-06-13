@@ -1,1 +1,1 @@
-# litecoin.network
+# OXODUS Network
